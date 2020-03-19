@@ -2,7 +2,7 @@
 
 ## How to run ?
 
-Start by running the sql script *scriptSQL.sql* into your SQL database terminal.
+Start by running the sql script *script/scriptSQL.sql* into your SQL database terminal.
 (Use *MySql* by preference, otherwise the application code might not work)
 
 Once you've done that, run the tomcat server.<br/>
